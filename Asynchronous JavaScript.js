@@ -1,3 +1,8 @@
+// BISMILLAH
+// Functions running in parallel with other functions are called asynchronous
+// A good example is JavaScript setTimeout()
+
+
 function printHello1() {
 	console.log("Hello1");
 }
